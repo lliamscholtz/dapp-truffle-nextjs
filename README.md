@@ -17,8 +17,15 @@ git clone git@github.com:lliamscholtz/dapp-truffle-nextjs.git
 ```
 3. Install all npm modules (dependencies).
 ```
+// Change directory to the project folder
 cd dapp-truffle-nextjs
+
+// Change directory to the front-end folder
+cd client
+
 yarn install
+// or
+npm install
 ```
 4. Run the development console.
 ```
@@ -33,6 +40,7 @@ migrate
 ```
 // Change directory to the front-end folder
 cd client
+
 // Serves the front-end on http://localhost:3000
 npm run dev
 ```
