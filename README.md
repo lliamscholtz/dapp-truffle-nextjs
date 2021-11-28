@@ -1,5 +1,5 @@
 # dapp-truffle-nextjs
-A minimal smart contract development boilerplate that uses [Truffle Suiter](https://www.trufflesuite.com/) and [NextJS](https://nextjs.org/).
+A minimal smart contract development boilerplate that uses [Truffle Suite](https://www.trufflesuite.com/) and [NextJS](https://nextjs.org/).
 
 Source: https://www.trufflesuite.com/boxes/truffle-next
 
