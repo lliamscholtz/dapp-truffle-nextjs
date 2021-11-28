@@ -3,7 +3,7 @@ A minimal smart contract development boilerplate that uses [Truffle Suite](https
 
 Source: https://www.trufflesuite.com/boxes/truffle-next
 
-| This repo follows the source above but upgrades Node Packages to their latest versions. It also makes a few minor adjustments to run with these upgrades.
+| This repo follows the source above but updates Node Packages to their latest versions. It also makes a few minor adjustments to run with these updates.
 
 ## Installation
 
